@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LTwrnm5uJSq24n4ZASWPxE0td2I3Ms24WREISO5OzSM=",
+  "Source": "Common.Auth.Api",
+  "BasePath": "_content/Common.Auth.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

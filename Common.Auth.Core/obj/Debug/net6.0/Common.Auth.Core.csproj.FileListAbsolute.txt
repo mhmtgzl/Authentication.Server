@@ -1,0 +1,15 @@
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\bin\Debug\net6.0\Common.Auth.Core.deps.json
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\bin\Debug\net6.0\Common.Auth.Core.dll
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\bin\Debug\net6.0\ref\Common.Auth.Core.dll
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\bin\Debug\net6.0\Common.Auth.Core.pdb
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\bin\Debug\net6.0\Common.Shared.dll
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\bin\Debug\net6.0\Common.Shared.pdb
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\Common.Auth.Core.csproj.AssemblyReference.cache
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\Common.Auth.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\Common.Auth.Core.AssemblyInfoInputs.cache
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\Common.Auth.Core.AssemblyInfo.cs
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\Common.Auth.Core.csproj.CoreCompileInputs.cache
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\Common.Auth.Core.csproj.CopyComplete
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\Common.Auth.Core.dll
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\ref\Common.Auth.Core.dll
+C:\Users\mguzel\source\repos\SVATaslak\Common.Auth.Core\obj\Debug\net6.0\Common.Auth.Core.pdb
