@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "68IR6Ef/z4ZIEtJzJsJWc1KeB+md/JtCxHevpKJi/PChbV7YR4offhLFBbni+gaDLiAIO08MIxGGq53anrkpKw==",
+  "dgSpecHash": "tMpX5wPLMLLv7IR1xRexD5pmsSqzjiJ/nQ7yGJByCDzylDYF9jVIAyNXxxKP9P7tqECF84H+VRacItGKpHmA2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Core\\Common.Auth.Core.csproj",
+  "projectFilePath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Core\\Common.Auth.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

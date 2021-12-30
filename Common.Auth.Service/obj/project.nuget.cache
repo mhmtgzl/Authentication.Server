@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZE6p/Vwl7g/NWan/6wU98oTX/QCmRkprcK1dQqsLV72I5Yj89aYjoKXtxuhoC9WTDVnYqpGjNsrG8NKUaDyWw==",
+  "dgSpecHash": "Q5fnSDOi42K71AtQHwXsjfxaYrCojg/7QRR5mvkA2oZZEeptAYPr4/87dgYhhjJpsJ8oACm//b5hc5xZVcjaYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Service\\Common.Auth.Service.csproj",
+  "projectFilePath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Service\\Common.Auth.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mguzel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\mguzel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.1\\microsoft.aspnetcore.cryptography.internal.6.0.1.nupkg.sha512",

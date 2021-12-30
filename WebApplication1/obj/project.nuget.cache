@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e+DMcFn+ra1QIi8Ni5D7Gsx6baVrR3oR1T34P5I7d3GBi7IDlNqoZET7PN0n2ujAfkm/qNJqmrItq8FdbWAawg==",
+  "dgSpecHash": "wb2H0lIf/B1HueDflfKO7wOIrZ6EpdPiIAs8ml4jqMEyLB3/apiUyQp1Ovf0Gc5Vkw3bIHiTThsYBOUo5WBG5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\MyProjects\\Authentication.Server\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mguzel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\mguzel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

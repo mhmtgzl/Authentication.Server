@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Service\\Common.Auth.Service.csproj": {}
+    "D:\\MyProjects\\Authentication.Server\\Common.Auth.Service\\Common.Auth.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Core\\Common.Auth.Core.csproj": {
+    "D:\\MyProjects\\Authentication.Server\\Common.Auth.Core\\Common.Auth.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Core\\Common.Auth.Core.csproj",
+        "projectUniqueName": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Core\\Common.Auth.Core.csproj",
         "projectName": "Common.Auth.Core",
-        "projectPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Core\\Common.Auth.Core.csproj",
+        "projectPath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Core\\Common.Auth.Core.csproj",
         "packagesPath": "C:\\Users\\mguzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Core\\obj\\",
+        "outputPath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -37,8 +37,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Shared\\Common.Shared.csproj": {
-                "projectPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Shared\\Common.Shared.csproj"
+              "D:\\MyProjects\\Authentication.Server\\Common.Shared\\Common.Shared.csproj": {
+                "projectPath": "D:\\MyProjects\\Authentication.Server\\Common.Shared\\Common.Shared.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Data\\Common.Auth.Data.csproj": {
+    "D:\\MyProjects\\Authentication.Server\\Common.Auth.Data\\Common.Auth.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Data\\Common.Auth.Data.csproj",
+        "projectUniqueName": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Data\\Common.Auth.Data.csproj",
         "projectName": "Common.Auth.Data",
-        "projectPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Data\\Common.Auth.Data.csproj",
+        "projectPath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Data\\Common.Auth.Data.csproj",
         "packagesPath": "C:\\Users\\mguzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Data\\obj\\",
+        "outputPath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -104,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Core\\Common.Auth.Core.csproj": {
-                "projectPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Core\\Common.Auth.Core.csproj"
+              "D:\\MyProjects\\Authentication.Server\\Common.Auth.Core\\Common.Auth.Core.csproj": {
+                "projectPath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Core\\Common.Auth.Core.csproj"
               }
             }
           }
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Service\\Common.Auth.Service.csproj": {
+    "D:\\MyProjects\\Authentication.Server\\Common.Auth.Service\\Common.Auth.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Service\\Common.Auth.Service.csproj",
+        "projectUniqueName": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Service\\Common.Auth.Service.csproj",
         "projectName": "Common.Auth.Service",
-        "projectPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Service\\Common.Auth.Service.csproj",
+        "projectPath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Service\\Common.Auth.Service.csproj",
         "packagesPath": "C:\\Users\\mguzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Service\\obj\\",
+        "outputPath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -197,8 +197,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Data\\Common.Auth.Data.csproj": {
-                "projectPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Auth.Data\\Common.Auth.Data.csproj"
+              "D:\\MyProjects\\Authentication.Server\\Common.Auth.Data\\Common.Auth.Data.csproj": {
+                "projectPath": "D:\\MyProjects\\Authentication.Server\\Common.Auth.Data\\Common.Auth.Data.csproj"
               }
             }
           }
@@ -237,14 +237,14 @@
         }
       }
     },
-    "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Shared\\Common.Shared.csproj": {
+    "D:\\MyProjects\\Authentication.Server\\Common.Shared\\Common.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Shared\\Common.Shared.csproj",
+        "projectUniqueName": "D:\\MyProjects\\Authentication.Server\\Common.Shared\\Common.Shared.csproj",
         "projectName": "Common.Shared",
-        "projectPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Shared\\Common.Shared.csproj",
+        "projectPath": "D:\\MyProjects\\Authentication.Server\\Common.Shared\\Common.Shared.csproj",
         "packagesPath": "C:\\Users\\mguzel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mguzel\\source\\repos\\SVATaslak\\Common.Shared\\obj\\",
+        "outputPath": "D:\\MyProjects\\Authentication.Server\\Common.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
