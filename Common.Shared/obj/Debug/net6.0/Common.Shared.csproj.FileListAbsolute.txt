@@ -10,3 +10,15 @@ C:\Users\mguzel\source\repos\SVATaslak\Common.Shared\obj\Debug\net6.0\Common.Sha
 C:\Users\mguzel\source\repos\SVATaslak\Common.Shared\obj\Debug\net6.0\Common.Shared.dll
 C:\Users\mguzel\source\repos\SVATaslak\Common.Shared\obj\Debug\net6.0\ref\Common.Shared.dll
 C:\Users\mguzel\source\repos\SVATaslak\Common.Shared\obj\Debug\net6.0\Common.Shared.pdb
+D:\MyProjects\Authentication.Server\Common.Shared\bin\Debug\net6.0\Common.Shared.deps.json
+D:\MyProjects\Authentication.Server\Common.Shared\bin\Debug\net6.0\Common.Shared.dll
+D:\MyProjects\Authentication.Server\Common.Shared\bin\Debug\net6.0\ref\Common.Shared.dll
+D:\MyProjects\Authentication.Server\Common.Shared\bin\Debug\net6.0\Common.Shared.pdb
+D:\MyProjects\Authentication.Server\Common.Shared\obj\Debug\net6.0\Common.Shared.csproj.AssemblyReference.cache
+D:\MyProjects\Authentication.Server\Common.Shared\obj\Debug\net6.0\Common.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Authentication.Server\Common.Shared\obj\Debug\net6.0\Common.Shared.AssemblyInfoInputs.cache
+D:\MyProjects\Authentication.Server\Common.Shared\obj\Debug\net6.0\Common.Shared.AssemblyInfo.cs
+D:\MyProjects\Authentication.Server\Common.Shared\obj\Debug\net6.0\Common.Shared.csproj.CoreCompileInputs.cache
+D:\MyProjects\Authentication.Server\Common.Shared\obj\Debug\net6.0\Common.Shared.dll
+D:\MyProjects\Authentication.Server\Common.Shared\obj\Debug\net6.0\ref\Common.Shared.dll
+D:\MyProjects\Authentication.Server\Common.Shared\obj\Debug\net6.0\Common.Shared.pdb

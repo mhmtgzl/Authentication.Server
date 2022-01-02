@@ -24,4 +24,8 @@
     <ProjectReference Include="..\Common.Auth.Core\Common.Auth.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

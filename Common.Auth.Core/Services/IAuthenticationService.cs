@@ -11,9 +11,9 @@ namespace Common.Auth.Core.Services
     public interface IAuthenticationService
     {
         Task<Response<TokenDto>> CreateTokenAsync(LoginDto login);
-        Task<Response<TokenDto>> CreateTokenByRefreshToken(string   refreshToken);
+        Task<Response<TokenDto>> CreateTokenByRefreshTokenAsync(string   refreshToken);
         Task<Response<NoDataDto>> RevokeRefreshToken(string refreshToken);
-        Task<Response<ClientTokenDto>> CreateTokenByClient(ClientLoginDto clientLogin);
+        Response<ClientTokenDto> CreateTokenByClient(ClientLoginDto clientLogin);
 
     }
 }

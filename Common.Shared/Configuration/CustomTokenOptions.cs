@@ -10,9 +10,7 @@ namespace Common.Shared.Configuration
     {
         public List<string> Audience { get; set; }
         public string Issuer { get; set; }
-        public int AccessTokenExpiration { get; set; }
-        public int RefreshTokenExpiration { get; set; }
-        public string SecurityKey { get; set; }
-
+        public int AccessTokenExpiration { get; set; } = 5;
+        public int RefreshTokenExpiration { get; set; } = 600;
     }
 }

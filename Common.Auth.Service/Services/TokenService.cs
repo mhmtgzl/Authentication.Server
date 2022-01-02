@@ -3,6 +3,7 @@ using Common.Auth.Core.DTO;
 using Common.Auth.Core.Models;
 using Common.Auth.Core.Services;
 using Common.Shared.Configuration;
+using Common.Shared.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
@@ -73,7 +74,7 @@ namespace Common.Auth.Service.Services
             var accessTokenExpiration = DateTime.Now.AddMinutes(customTokenOptions.AccessTokenExpiration);
             var refreshTokenExpiration = DateTime.Now.AddMinutes(customTokenOptions.RefreshTokenExpiration);
 
-            var security = SignService.GetSymmetricSecurityKey(customTokenOptions.SecurityKey);
+            var security = SignService.GetSymmetricSecurityKey();
             SigningCredentials signingCredentials = new SigningCredentials(security, SecurityAlgorithms.HmacSha256Signature);
             JwtSecurityToken jwtSecurityToken = new JwtSecurityToken(
                 issuer: customTokenOptions.Issuer,
@@ -97,7 +98,25 @@ namespace Common.Auth.Service.Services
 
         public ClientTokenDto CreateTokenByClient(Client client)
         {
-            throw new NotImplementedException();
+            var accessTokenExpiration = DateTime.Now.AddMinutes(customTokenOptions.AccessTokenExpiration);
+
+            var security = SignService.GetSymmetricSecurityKey();
+            SigningCredentials signingCredentials = new SigningCredentials(security, SecurityAlgorithms.HmacSha256Signature);
+            JwtSecurityToken jwtSecurityToken = new JwtSecurityToken(
+                issuer: customTokenOptions.Issuer,
+                notBefore: DateTime.Now,
+                expires: accessTokenExpiration,
+                signingCredentials: signingCredentials,
+                claims: GetClaimsByClient(client));
+
+            var handler = new JwtSecurityTokenHandler();
+            var token = handler.WriteToken(jwtSecurityToken);
+
+            return new ClientTokenDto
+            {
+                AccessToken = token,
+                AccessTokenExpiration = accessTokenExpiration
+            };
         }
     }
 }
